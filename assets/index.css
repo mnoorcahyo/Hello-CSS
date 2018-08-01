@@ -30,8 +30,11 @@ body{
 }
 
 .eks{
-  color: rgb(97, 56, 122);
+    margin-bottom: 0px;
 }
+/* .small{
+    margin-bottom: 10px;
+} */
 
 .blok{
     background-color: #FF8000;
