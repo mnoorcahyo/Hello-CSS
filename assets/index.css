@@ -1,0 +1,58 @@
+.redcolor{
+    color: rgb(248, 19, 19);  
+    width: 500px;
+}
+
+/* div>a{
+    color: rgb(248, 19, 19);   
+} */
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.content{
+    text-align: center;
+    font-size: 50px;
+    margin: 0px;
+    padding-top: 10px;
+}
+.nobita {
+    text-align: center;
+}
+#bukanbackground{
+    background-color:#BCFF00;
+    padding-bottom: 100px;
+}
+.eks{
+  color: #9E00FF;
+}
+
+.blok{
+    background-color: #FF8000;
+    /* display: inline; */
+}
+.red{
+    background-color: red;
+    /* display: inline; */
+}
+.yellow{
+    background-color:yellow;
+    /* display: inline; */
+}
+
+.green{
+    background-color:green;
+    /* display: inline; */
+}
+.blue{
+    background-color:blue;
+    /* display: inline; */
+}
+
+.purple{
+    background-color:purple;
+    /* display: inline; */
+}
