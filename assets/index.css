@@ -56,3 +56,6 @@
     background-color:purple;
     /* display: inline; */
 }
+.font{
+    font-family: "Lucida Console", monaco, monospace;
+}
